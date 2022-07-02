@@ -11,12 +11,12 @@ a {
 }
 
 .button-contact {
-  width: 100%;
-  height: 25%;
   border-radius: 1.5rem;
-  font-size: 50px;
+  font-size: 2rem;
   font-weight: bold;
   background-color: white;
+  align-items: center;
+  justify-content: center;
 }
 
 .button-contact:hover {
@@ -40,8 +40,8 @@ a {
 
 .contact-col {
   display: flex;
-
   align-items: center;
+  justify-content: center;
 }
 
 .logo {
